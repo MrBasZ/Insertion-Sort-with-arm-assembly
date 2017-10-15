@@ -1,2 +1,4 @@
-# Insertion-Sort-with-arm-assembly
-#recursion eiei
+# Insertion Sort with arm assembly on Keil
+# using recursion eiei
+
+Pongdanai Prasawang
